@@ -38,13 +38,13 @@ Semua kode dapat dijalankan langsung dan telah dites tanpa error.
 
 | Pertemuan | Topik | Link Notebook |
 |-----------|-------|---------------|
-| 1 | [Judul Topik Pertemuan 1] | [📓 pertemuan1.ipynb](./pertemuan1.ipynb) |
-| 2 | [Judul Topik Pertemuan 2] | [📓 pertemuan2.ipynb](./pertemuan2.ipynb) |
-| 3 | [Judul Topik Pertemuan 3] | [📓 pertemuan3.ipynb](./pertemuan3.ipynb) |
-| 4 | [Judul Topik Pertemuan 4] | [📓 pertemuan4.ipynb](./pertemuan4.ipynb) |
-| 5 | [Judul Topik Pertemuan 5] | [📓 pertemuan5.ipynb](./pertemuan5.ipynb) |
-| 6 | [Judul Topik Pertemuan 6] | [📓 pertemuan6.ipynb](./pertemuan6.ipynb) |
-| 7 | [Judul Topik Pertemuan 7] | [📓 pertemuan7.ipynb](./pertemuan7.ipynb) |
+| 1 | [Pertemuan 1] | [📓 Pertemuan1_FandriIndranata_230401010180](./Pertemuan1_FandriIndranata_230401010180.ipynb) |
+| 2 | [Pertemuan 2] | [📓 Pertemuan2_FandriIndranata_230401010180ipybn](./Pertemuan2_FandriIndranata_230401010180ipybn.ipynb) |
+| 3 | [Pertemuan 3] | [📓 Pertemuan3_FandriIndranata_230401010180](./Pertemuan3_FandriIndranata_230401010180.ipynb) |
+| 4 | [Pertemuan 4] | [📓 Pertemuan4_FandriIndranata_230401010180](./Pertemuan4_FandriIndranata_230401010180.ipynb) |
+| 5 | [Pertemuan 5] | [📓 Pertemuan5_FandriIndranata_230401010180](./Pertemuan5_FandriIndranata_230401010180.ipynb) |
+| 6 | [Pertemuan 6] | [📓 Pertemuan6_FandriIndranata_230401010180](./Pertemuan6_FandriIndranata_230401010180.ipynb) |
+| 7 | [Pertemuan 7] | [📓 Pertemuan7_FandriIndranata_230401010180](./Pertemuan7_FandriIndranata_230401010180.ipynb) |
 
 ---
 
