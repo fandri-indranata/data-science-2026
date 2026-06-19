@@ -39,7 +39,7 @@ Semua kode dapat dijalankan langsung dan telah dites tanpa error.
 | Pertemuan | Topik | Link Notebook |
 |-----------|-------|---------------|
 | 1 | [Pertemuan 1] | [📓 Pertemuan1_FandriIndranata_230401010180](./Pertemuan1_FandriIndranata_230401010180.ipynb) |
-| 2 | [Pertemuan 2] | [📓 Pertemuan2_FandriIndranata_230401010180ipybn](./Pertemuan2_FandriIndranata_230401010180ipybn.ipynb) |
+| 2 | [Pertemuan 2] | [📓 Pertemuan2_FandriIndranata_230401010180ipybn](./Pertemuan2_FandriIndranata_230401010180ipynb.ipynb) |
 | 3 | [Pertemuan 3] | [📓 Pertemuan3_FandriIndranata_230401010180](./Pertemuan3_FandriIndranata_230401010180.ipynb) |
 | 4 | [Pertemuan 4] | [📓 Pertemuan4_FandriIndranata_230401010180](./Pertemuan4_FandriIndranata_230401010180.ipynb) |
 | 5 | [Pertemuan 5] | [📓 Pertemuan5_FandriIndranata_230401010180](./Pertemuan5_FandriIndranata_230401010180.ipynb) |
